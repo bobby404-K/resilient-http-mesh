@@ -1,0 +1,11 @@
+{
+  "name": "resilient-http-mesh",
+  "version": "1.4.0",
+  "description": "Resilient HTTP client with circuit breaker and request deduplication",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
